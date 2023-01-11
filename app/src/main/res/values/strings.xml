@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Entrega curso Android</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Formulario</string>
+    <string name="menu_settings">Configuración</string>
+    <string name="ok">Ok</string>
+    <string name="mensaje_configuracion">Has pulsado el botón configuración</string>
+</resources>
